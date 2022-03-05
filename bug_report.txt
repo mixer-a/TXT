@@ -1,0 +1,7 @@
+  id: 1
+  summary": What, Where, When
+  steps: The way to the bug
+  actual result: Doesn't work
+  expected result: Work
+  severity: Critical
+  priority: High
